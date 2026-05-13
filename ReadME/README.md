@@ -1,9 +1,10 @@
 # EEG_with_EEGLAB
-#EEGLab Codes and Data
-#This project includes a full set of dataset with given sturcture and description with name Dataset_info.
-The number of differenct event is: 155
-The number of Subject is : 30
-The number of Channel is : 126
+EEGLab Codes and Data
+
+This project includes a full set of dataset with given sturcture and description with the name "Dataset_info".
+The number of differenct event is: 155.
+The number of Subject is : 30.
+The number of Channel is : 126.
 All Processing is done in MATLAB with EEGLAB and Scripts.
 The project is in progress.
 All codes are in the "Codes" folder.
